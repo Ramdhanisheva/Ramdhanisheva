@@ -1,12 +1,13 @@
 <div align="center">
 
 # Halo, Saya Sheva Ramdhani 👋
-### Mahasiswa Teknologi Informasi @ Institut Teknologi Sepuluh Nopember (ITS)
-**Cybersecurity Enthusiast | CTF Player | Network Engineer | Full-Stack Developer**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007ACC&center=true&vCenter=true&width=550&lines=IT+Student+%40+Institut+Teknologi+Sepuluh+Nopember;Cybersecurity+Enthusiast+%26+CTF+Player;Full-Stack+Web+Developer;Instructor+%40+Hackta+Academy" alt="Typing SVG" />
 
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-ramdhanisheva.site-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ramdhanisheva.site)
+[![Blog](https://img.shields.io/badge/Blog-ruangaiti.blog-FF8C00?style=for-the-badge&logo=blogger&logoColor=white)](https://ruangaiti.blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sheva_Ramdhani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheva-ramdhani-6b46a9331)
 [![Instagram](https://img.shields.io/badge/Instagram-@ramdhanishevaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramdhanishevaa)
 [![GitHub](https://img.shields.io/badge/GitHub-Ramdhanisheva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramdhanisheva)
@@ -21,11 +22,36 @@
 
 ### 🚀 Tentang Saya
 
-- 🎓 Sedang menempuh studi **S1 Teknologi Informasi di ITS** (Surabaya, Indonesia).
-- 🔐 Memiliki ketertarikan mendalam pada **Keamanan Siber (Cybersecurity)**, **Infrastruktur Jaringan**, dan aktif berkompetisi di **Capture The Flag (CTF)**.
-- 💻 Berpengalaman dalam pengembangan aplikasi web **Full-Stack** (Laravel, Next.js, Express) dan administrasi sistem **Linux**.
-- 🛠️ Senang bereksplorasi dalam reverse engineering, eksploitasi biner, analisis paket jaringan, dan otomasi script.
+- 🎓 Mahasiswa **S1 Teknologi Informasi di Institut Teknologi Sepuluh Nopember (ITS)** (2026 - Sekarang).
+- 👨‍🏫 **Instructor** di **Hackta Academy** & **Talent Dev Intern** di **UKM Cyber Security ITS (UCS)**.
+- 🔐 Memiliki ketertarikan tinggi pada **Cybersecurity**, **CTF Competitions**, **Infrastruktur Jaringan**, dan pengembangan web **Full-Stack**.
+- 🌐 Founder & Pengembang **[RuangAiTi](https://ruangaiti.blog)** (Platform IT Learning Roadmap & Blog).
 - 📍 Berdomisili di Mojokerto / Surabaya, Jawa Timur, Indonesia.
+
+---
+
+### 🏆 Prestasi & Kompetisi (Achievements)
+
+- 🥇 **1st Place** - National CyberWave 2.0 CTF Competition (2026)
+- 🥈 **2nd Place** - National Hackta Cyber Security Competition (2026)
+- 🥇 **1st Place** - LKS Cyber Security Tingkat Kab. Mojokerto (2026)
+- 🥉 **3rd Place** - East Java Cyber Security Competition (2025)
+- 🛡️ **Finalist** - Cyber Jawara Nasional (2025)
+- 🚀 **Top 5** - HackToday CTF Quals (2026)
+- 🎯 **Top 9** - ITECHNO26 Cyber Security Competition (2026)
+- 🌏 **Top 20 Candidate** - WorldSkills ASEAN Cyber Security Selection (2024)
+- 🎓 **Best Student** - Computer Networking Engineering, SMKN 1 Pungging (2026)
+
+---
+
+### 📜 Sertifikasi Pilihan (Certifications)
+
+- 🛡️ **Junior Technical Support** - Badan Nasional Sertifikasi Profesi (BNSP)
+- 🌐 **Google Cybersecurity Professional Certificate** - Google
+- 🔒 **Fortinet Certified Associate Cybersecurity** - Fortinet
+- 🏢 **Cyber Security Officer Certification** - Telkom Indonesia
+- 🐍 **Full Stack Python Django Developer** - Telkom DigiUp
+- 🔐 **Cisco Ethical Hacker & Cisco Network Basic** - Cisco Networking Academy
 
 ---
 
@@ -86,5 +112,5 @@
 ---
 
 <div align="center">
-  <i>Dibuat dengan semangat belajar dan eksplorasi teknologi oleh Sheva Ramdhani.</i>
+  <i>Dibuat dengan dedikasi dan semangat eksplorasi teknologi oleh Sheva Ramdhani.</i>
 </div>
