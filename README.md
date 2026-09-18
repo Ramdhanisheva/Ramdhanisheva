@@ -81,20 +81,23 @@ Me? Just call me **Asep IT ITS**. Information Technology student at **Institut T
 | 2026 | National Hackta Cyber Security Competition | 🥈 **2nd Place** |
 | 2026 | LKS Cyber Security Tingkat Kab. Mojokerto | 🥇 **1st Place** |
 | 2025 | East Java Cyber Security Competition | 🥉 **3rd Place** |
-| 2025 | Cyber Jawara Nasional | 🛡️ **Finalist** |
-| 2026 | HackToday CTF Quals | 🚀 **Top 5** |
-| 2026 | ITECHNO26 Cyber Security Competition | 🎯 **Top 9** |
-| 2024 | WorldSkills ASEAN Cyber Security Selection | 🌏 **Top 20 Candidate** |
-| 2026 | Computer Networking Engineering - SMKN 1 Pungging | 🎓 **Best Student** |
+| 2025 | Cyber Jawara Nasional | Finalist |
+| 2026 | HackToday CTF Quals | Top 5 |
+| 2026 | ITECHNO26 Cyber Security Competition | Top 9 |
+| 2024 | WorldSkills ASEAN Cyber Security Selection | Top 20 Candidate |
+| 2026 | Computer Networking Engineering - SMKN 1 Pungging | Best Student |
 
 ### 📜 Certifications
 
-- 🛡️ **Junior Technical Support** - Badan Nasional Sertifikasi Profesi (BNSP)
-- 🌐 **Google Cybersecurity Professional Certificate** - Google
-- 🔒 **Fortinet Certified Associate Cybersecurity** - Fortinet
-- 🏢 **Cyber Security Officer Certification** - Telkom Indonesia
-- 🐍 **Full Stack Python Django Developer** - Telkom DigiUp
-- 🔐 **Cisco Ethical Hacker & Cisco Network Basic** - Cisco Networking Academy
+| Certification | Credential Issuer |
+| :--- | :--- |
+| Junior Technical Support | Badan Nasional Sertifikasi Profesi (BNSP) |
+| Google Cybersecurity Professional Certificate | Google |
+| Fortinet Certified Associate Cybersecurity | Fortinet |
+| Cyber Security Officer Certification | Telkom Indonesia |
+| Full Stack Python Django Developer | Telkom DigiUp |
+| Cisco Ethical Hacker | Cisco Networking Academy |
+| Cisco Certified Network Basic | Cisco Networking Academy |
 
 ### 📊 GitHub Activity & Stats
 
