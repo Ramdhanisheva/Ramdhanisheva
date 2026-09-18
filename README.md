@@ -17,13 +17,9 @@
 
 </div>
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎓 Information Technology Student at **Institut Teknologi Sepuluh Nopember (ITS)** (2026 - Present).
-- 🛡️ Cybersecurity Enthusiast & active **Capture The Flag (CTF)** player across **Jeopardy**, **Boot2Root (B2R)**, and **King of the Hill (KotH)** formats.
-- 👨‍🏫 **Instructor** at **Hackta Academy** & **Talent Dev Intern** at **UKM Cyber Security ITS (UCS)**.
-- 💻 Experienced in **Full-Stack Web Development** and **Linux Server & Network Administration**.
-- 🚀 Founder & Lead Developer of **[RuangAiTi](https://ruangaiti.blog)**.
+Me? Just call me **Asep IT ITS**. Information Technology student at **Institut Teknologi Sepuluh Nopember (ITS)** with an intensive focus on Cybersecurity, CTF Competitions (Jeopardy, Boot2Root, King of the Hill), Linux internals, and Full-Stack Engineering. Currently instructing at **Hackta Academy**, actively building security initiatives at **UKM Cyber Security ITS (UCS)**, and developing **[RuangAiTi](https://ruangaiti.blog)**.
 
 ### 🛠️ Tech Stack & Keahlian
 
