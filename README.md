@@ -13,7 +13,7 @@
 
 <br />
 
-![Visitors](https://komarev.com/ghpvc/?username=Ramdhanisheva&color=007acc&style=flat-square&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=Ramdhanisheva&base=1200&color=007acc&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -106,11 +106,6 @@ Me? Just call me **Asep IT ITS**. Information Technology student at **Institut T
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramdhanisheva&theme=tokyonight&hide_border=true&card_width=490" alt="GitHub Streak Stats" />
 </a>
-
-<br /><br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ramdhanisheva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramdhanisheva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
 <br /><br />
 
