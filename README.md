@@ -22,24 +22,37 @@
 ### 🚀 Tentang Saya
 
 - 🎓 Sedang menempuh studi **S1 Teknologi Informasi di ITS** (Surabaya, Indonesia).
-- 🔐 Memiliki ketertarikan mendalam pada **Keamanan Siber (Cybersecurity)**, **Analisis Jaringan**, dan aktif bermain **Capture The Flag (CTF)**.
+- 🔐 Memiliki ketertarikan mendalam pada **Keamanan Siber (Cybersecurity)**, **Infrastruktur Jaringan**, dan aktif berkompetisi di **Capture The Flag (CTF)**.
 - 💻 Berpengalaman dalam pengembangan aplikasi web **Full-Stack** (Laravel, Next.js, Express) dan administrasi sistem **Linux**.
-- 🛠️ Senang mengutak-atik infrastruktur server, Docker containerization, firewall/IDS, serta otomasi script.
+- 🛠️ Senang bereksplorasi dalam reverse engineering, eksploitasi biner, analisis paket jaringan, dan otomasi script.
 - 📍 Berdomisili di Mojokerto / Surabaya, Jawa Timur, Indonesia.
 
 ---
 
-### 🛠️ Tech Stack & Alat
+### 🛠️ Tech Stack & Keahlian
 
 <div align="center">
 
-#### Pemrograman & Pengembangan Web
+#### 💻 Pemrograman & Pengembangan Web
 [![Tech Stack](https://skillicons.dev/icons?i=c,cpp,py,js,ts,php,laravel,react,nextjs,tailwind,nodejs,express,html,css&perline=14)](https://skillicons.dev)
 
 <br/>
 
-#### Keamanan Siber, Jaringan, Database & DevOps
-[![DevOps & Security](https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,arch,bash,docker,nginx,mysql,postgres,git,github,vscode,postman&perline=14)](https://skillicons.dev)
+#### 🚩 Keamanan Siber & Kategori CTF
+[![Forensics](https://img.shields.io/badge/CTF-Digital_Forensics-6A0DAD?style=for-the-badge&logo=target&logoColor=white)](https://github.com/Ramdhanisheva)
+[![Cryptography](https://img.shields.io/badge/CTF-Cryptography-007ACC?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://github.com/Ramdhanisheva)
+[![Reverse Engineering](https://img.shields.io/badge/CTF-Reverse_Engineering-D32F2F?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Ramdhanisheva)
+[![Web Exploitation](https://img.shields.io/badge/CTF-Web_Exploitation-2E7D32?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/Ramdhanisheva)
+[![Binary Exploitation](https://img.shields.io/badge/CTF-Binary_Exploit_%2F_Pwn-C2185B?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Ramdhanisheva)
+
+<br/>
+
+[![Security Environment](https://skillicons.dev/icons?i=kali,arch,linux,ubuntu,debian,bash,py,c,cpp,vscode&perline=10)](https://skillicons.dev)
+
+<br/>
+
+#### 🌐 Jaringan, Database & DevOps
+[![DevOps & Network](https://skillicons.dev/icons?i=docker,nginx,mysql,postgres,git,github,postman,linux,ubuntu,debian,bash&perline=12)](https://skillicons.dev)
 
 </div>
 
