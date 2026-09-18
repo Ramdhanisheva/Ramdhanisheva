@@ -20,12 +20,12 @@
 ### 👨‍💻 About Me
 
 - 🎓 Information Technology Student at **Institut Teknologi Sepuluh Nopember (ITS)** (2026 - Present).
-- 🛡️ Actively competing in **Capture The Flag (CTF)** with core focus on **Digital Forensics**, **Cryptography**, **Reverse Engineering**, **Web Exploitation**, and **Binary Exploitation (Pwn)**.
+- 🛡️ Cybersecurity Enthusiast & active **Capture The Flag (CTF)** player across **Jeopardy**, **Boot2Root (B2R)**, and **King of the Hill (KotH)** formats.
 - 👨‍🏫 **Instructor** at **Hackta Academy** & **Talent Dev Intern** at **UKM Cyber Security ITS (UCS)**.
 - 💻 Experienced in **Full-Stack Web Development** and **Linux Server & Network Administration**.
-- 🚀 Founder & Lead Developer of **[RuangAiTi](https://ruangaiti.blog)** (IT learning roadmap & technology platform).
+- 🚀 Founder & Lead Developer of **[RuangAiTi](https://ruangaiti.blog)**.
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Keahlian
 
 #### 💻 Programming & Scripting
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -44,13 +44,28 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-#### 🛡️ Cybersecurity, OS & Infrastructure
+#### 🛡️ Cybersecurity & CTF
+
+**Distro & Environment:**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Jeopardy Categories:**  
+![Forensics](https://img.shields.io/badge/Forensics_%26_DFIR-6A0DAD?style=for-the-badge&logo=target&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-007ACC?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Reverse Engineering](https://img.shields.io/badge/Reverse_Engineering-D32F2F?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-2E7D32?style=for-the-badge&logo=owasp&logoColor=white)
+![Binary Exploitation](https://img.shields.io/badge/Binary_Exploitation_%2F_Pwn-C2185B?style=for-the-badge&logo=c&logoColor=white)
+![Misc / OSINT](https://img.shields.io/badge/Misc_%2F_OSINT-FF8C00?style=for-the-badge&logo=gnometerminal&logoColor=white)
+
+**Game Formats & Wargames:**  
+![Boot2Root](https://img.shields.io/badge/Boot2Root_(B2R)-000000?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![King of the Hill](https://img.shields.io/badge/King_of_the_Hill_(KotH)-8B0000?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Attack & Defense](https://img.shields.io/badge/Attack_%26_Defense-1E1E1E?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 #### 🗄️ Database, DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
